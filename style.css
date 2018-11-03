@@ -1,0 +1,11 @@
+.boxed {
+    margin: 30px 20px 20px 30px;
+    height: 75px;
+    text-align: center;
+    background-color: white;
+}
+
+body {
+    background-color: gray;
+}
+
